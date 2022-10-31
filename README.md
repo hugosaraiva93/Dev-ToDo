@@ -1,4 +1,4 @@
-# Desafio TODO da RocketSeat
+# Desafio TODO da RocketSeat ✅
 
 ### Objetivo
 * Executar um lista de tarefas usando React-Js.
@@ -18,4 +18,4 @@ Função bonus de salvar lista no banco de dados.
 
 ## Plataforma:
  
-https://www.rocketseat.com.br/
+🚀 https://www.rocketseat.com.br/
