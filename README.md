@@ -1,4 +1,4 @@
-# Desafio TODO da RocketSeat ✅
+# Desafio  ToDo da RockeetSeat✅
 
 ### Objetivo
 * Executar um lista de tarefas usando React-Js.
